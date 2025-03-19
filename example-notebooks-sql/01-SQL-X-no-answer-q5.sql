@@ -202,7 +202,7 @@ REMOVE WIDGET clusterId
 
 -- COMMAND ----------
 
--- How many interactive node hours per day are there on the different Spark versions over time.
+
 
 -- COMMAND ----------
 

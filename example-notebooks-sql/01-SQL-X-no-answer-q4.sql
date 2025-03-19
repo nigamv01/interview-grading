@@ -148,8 +148,7 @@ FROM workloads
 
 -- COMMAND ----------
 
--- no of workload hours each day for workspaceID - -9014487477555684744 
--- Assumption: using nodeHours as a proxy for workload hours 
+
 
 
 -- COMMAND ----------
@@ -160,18 +159,17 @@ FROM workloads
 
 -- COMMAND ----------
 
--- Get some cluster id which have both
 
-
--- COMMAND ----------
-
--- #  change the cluster id here to change the output in cmd24 
 
 
 -- COMMAND ----------
 
--- Determine how many nodes are spot vs. on demand for a given cluster.
--- Sol: group by metadata.clusterMetadata.containerIsSpot for a given cluster id 
+
+
+
+-- COMMAND ----------
+
+
 
 
 -- COMMAND ----------
